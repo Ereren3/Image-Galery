@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Pixabay Image Gallery - React & Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
 ## Available Scripts
 
